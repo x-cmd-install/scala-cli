@@ -2,10 +2,10 @@ about:
   description: "Scala CLI is a command-line tool to interact with the Scala language. It lets you compile, run, test, and package your Scala code (and more!)"
   license: Apache-2.0
   homepage: https://scala-cli.virtuslab.org
-  head: 8c7265a
+  head: f11c650
   archived: false
   latestVersion: "v1.16.0"
-  collectedAt: 2026-09-07T05:53:36Z
+  collectedAt: 2026-09-07T18:47:42Z
 timeline:
   created: 2021-05-10
   lastCommit: 2026-09-07
@@ -16,7 +16,7 @@ popularity:
   fork: 166
   release: 87
   contributor: 113
-  pullRequest: 3193
+  pullRequest: 3194
   issue: 1169
 language:
   Scala: 3452721
@@ -33,61 +33,61 @@ recent:
   last30d:
     since: 2026-08-08
     release: 0
-    mergedPR: 31
-    openPR: 4
+    mergedPR: 34
+    openPR: 2
     closedIssue: 0
     openIssue: 2
-    commit: 23
+    commit: 26
   last60d:
     since: 2026-07-09
     release: 1
-    mergedPR: 73
-    openPR: 5
+    mergedPR: 76
+    openPR: 3
     closedIssue: 3
     openIssue: 3
-    commit: 70
+    commit: 73
   last90d:
     since: 2026-06-09
     release: 2
-    mergedPR: 114
-    openPR: 6
+    mergedPR: 117
+    openPR: 4
     closedIssue: 7
     openIssue: 5
-    commit: 116
+    commit: 119
   last180d:
     since: 2026-03-11
     release: 5
-    mergedPR: 209
-    openPR: 11
+    mergedPR: 212
+    openPR: 9
     closedIssue: 22
     openIssue: 10
-    commit: 241
+    commit: 244
   last360d:
     since: 2025-09-12
     release: 14
-    mergedPR: 414
-    openPR: 11
+    mergedPR: 417
+    openPR: 9
     closedIssue: 62
     openIssue: 28
-    commit: 512
+    commit: 515
   last720d:
     since: 2024-09-17
     release: 30
-    mergedPR: 832
-    openPR: 11
+    mergedPR: 835
+    openPR: 9
     closedIssue: 152
     openIssue: 94
-    commit: 1180
+    commit: 1183
 total:
   release: 87
-  mergedPR: 2739
-  openPR: 11
+  mergedPR: 2742
+  openPR: 9
   closedIssue: 865
   openIssue: 304
-  commit: 5470
+  commit: 5473
 ---
 path: /home/runner/.x-repo/github.com/VirtusLab/scala-cli
-collectedAt: 2026-09-07T05:53:54Z
+collectedAt: 2026-09-07T18:47:55Z
 loc:
   Scala:
     code: 86026
@@ -158,7 +158,7 @@ total:
 
 ---
 eget:
-  collectedAt: 2026-09-07T05:53:56+00:00
+  collectedAt: 2026-09-07T18:47:56+00:00
   platform:
     darwin/arm64:
       name:  scala-cli-aarch64-apple-darwin-sdk.zip
