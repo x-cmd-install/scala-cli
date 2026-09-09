@@ -2,15 +2,15 @@ about:
   description: "Scala CLI is a command-line tool to interact with the Scala language. It lets you compile, run, test, and package your Scala code (and more!)"
   license: Apache-2.0
   homepage: https://scala-cli.virtuslab.org
-  head: 3c94861
+  head: f54720c
   archived: false
   latestVersion: "v1.17.0"
   latestRelease: "v1.17.0"
   latestPrerelease: "v1.8.2"
-  collectedAt: 2026-09-09T05:54:19Z
+  collectedAt: 2026-09-09T20:12:50Z
 timeline:
   created: 2021-05-10
-  lastCommit: 2026-09-08
+  lastCommit: 2026-09-09
   lastVersion: 2026-09-08
   lastRelease: 2026-09-08
   lastPrerelease: 2025-06-12
@@ -20,7 +20,7 @@ popularity:
   fork: 166
   release: 88
   contributor: 113
-  pullRequest: 3199
+  pullRequest: 3202
   issue: 1169
 language:
   Scala: 3452721
@@ -37,61 +37,61 @@ recent:
   last30d:
     since: 2026-08-10
     release: 1
-    mergedPR: 33
-    openPR: 5
+    mergedPR: 40
+    openPR: 1
     closedIssue: 0
     openIssue: 2
-    commit: 28
+    commit: 35
   last60d:
     since: 2026-07-11
     release: 2
-    mergedPR: 74
-    openPR: 6
+    mergedPR: 81
+    openPR: 2
     closedIssue: 3
     openIssue: 3
-    commit: 75
+    commit: 82
   last90d:
     since: 2026-06-11
     release: 3
-    mergedPR: 112
-    openPR: 7
+    mergedPR: 119
+    openPR: 3
     closedIssue: 7
     openIssue: 5
-    commit: 121
+    commit: 128
   last180d:
     since: 2026-03-13
     release: 6
-    mergedPR: 208
-    openPR: 12
+    mergedPR: 215
+    openPR: 8
     closedIssue: 22
     openIssue: 10
-    commit: 246
+    commit: 253
   last360d:
     since: 2025-09-14
     release: 15
-    mergedPR: 419
-    openPR: 12
+    mergedPR: 426
+    openPR: 8
     closedIssue: 62
     openIssue: 28
-    commit: 517
+    commit: 524
   last720d:
     since: 2024-09-19
     release: 31
-    mergedPR: 833
-    openPR: 12
+    mergedPR: 840
+    openPR: 8
     closedIssue: 152
     openIssue: 91
-    commit: 1180
+    commit: 1187
 total:
   release: 88
-  mergedPR: 2744
-  openPR: 12
+  mergedPR: 2751
+  openPR: 8
   closedIssue: 865
   openIssue: 304
-  commit: 5475
+  commit: 5482
 ---
 path: /home/runner/.x-repo/github.com/VirtusLab/scala-cli
-collectedAt: 2026-09-09T05:54:33Z
+collectedAt: 2026-09-09T20:13:13Z
 loc:
   Scala:
     code: 86026
