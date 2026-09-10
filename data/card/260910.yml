@@ -7,7 +7,7 @@ about:
   latestVersion: "v1.17.0"
   latestRelease: "v1.17.0"
   latestPrerelease: "v1.8.2"
-  collectedAt: 2026-09-10T20:25:04Z
+  collectedAt: 2026-09-10T23:24:00Z
 timeline:
   created: 2021-05-10
   lastCommit: 2026-09-10
@@ -91,7 +91,7 @@ total:
   commit: 5487
 ---
 path: /home/runner/.x-repo/github.com/VirtusLab/scala-cli
-collectedAt: 2026-09-10T20:25:31Z
+collectedAt: 2026-09-10T23:24:14Z
 loc:
   Scala:
     code: 86023
