@@ -103,7 +103,7 @@
       "state": "uploaded",
       "size": 43885807,
       "digest": "sha256:ee632d2875af91be2f0e747a78381c95eb2dc61ba4265abb5168326e4749283e",
-      "download_count": 22,
+      "download_count": 23,
       "created_at": "2026-09-08T18:29:26Z",
       "updated_at": "2026-09-08T18:29:27Z",
       "browser_download_url": "https://github.com/VirtusLab/scala-cli/releases/download/v1.17.0/scala-cli-aarch64-apple-darwin-sdk.zip"
@@ -139,7 +139,7 @@
       "state": "uploaded",
       "size": 43710517,
       "digest": "sha256:17391b0087715613ae9da4f6e1de11efbbda4db450d4b0f188ed8f0884ba9ca8",
-      "download_count": 455,
+      "download_count": 475,
       "created_at": "2026-09-08T18:29:28Z",
       "updated_at": "2026-09-08T18:29:30Z",
       "browser_download_url": "https://github.com/VirtusLab/scala-cli/releases/download/v1.17.0/scala-cli-aarch64-apple-darwin.gz"
@@ -247,7 +247,7 @@
       "state": "uploaded",
       "size": 44627813,
       "digest": "sha256:41776b61e55c19dbbc4b9e5c54e5e49e60536f8aaab525cd172f6bafb9e869f8",
-      "download_count": 798,
+      "download_count": 850,
       "created_at": "2026-09-08T18:29:34Z",
       "updated_at": "2026-09-08T18:29:36Z",
       "browser_download_url": "https://github.com/VirtusLab/scala-cli/releases/download/v1.17.0/scala-cli-aarch64-pc-linux.gz"
@@ -319,7 +319,7 @@
       "state": "uploaded",
       "size": 43825868,
       "digest": "sha256:003df151f7cb6e4a9a2ef9a30f662cc16686187fd00f2cdad51eb7b9cb95d301",
-      "download_count": 137,
+      "download_count": 143,
       "created_at": "2026-09-08T18:29:38Z",
       "updated_at": "2026-09-08T18:29:40Z",
       "browser_download_url": "https://github.com/VirtusLab/scala-cli/releases/download/v1.17.0/scala-cli-x86_64-apple-darwin.gz"
@@ -427,7 +427,7 @@
       "state": "uploaded",
       "size": 45991630,
       "digest": "sha256:646b3a55543a942d3365a6f01a2cc369b1b1ae22c117335fac3fcb74c6f310f4",
-      "download_count": 36,
+      "download_count": 41,
       "created_at": "2026-09-08T18:29:46Z",
       "updated_at": "2026-09-08T18:29:47Z",
       "browser_download_url": "https://github.com/VirtusLab/scala-cli/releases/download/v1.17.0/scala-cli-x86_64-pc-linux-static-sdk.zip"
@@ -463,7 +463,7 @@
       "state": "uploaded",
       "size": 44132520,
       "digest": "sha256:9faf31c79da05c9082ee33ae2eeb0418432a58905d87869c45b0207f76051938",
-      "download_count": 23,
+      "download_count": 58,
       "created_at": "2026-09-08T18:29:48Z",
       "updated_at": "2026-09-08T18:29:49Z",
       "browser_download_url": "https://github.com/VirtusLab/scala-cli/releases/download/v1.17.0/scala-cli-x86_64-pc-linux-static.gz"
@@ -535,7 +535,7 @@
       "state": "uploaded",
       "size": 45821864,
       "digest": "sha256:ff9b5b7ed85624cb111fa6ede732b242e44dba8719b52b97af32d61545e40c3c",
-      "download_count": 7847,
+      "download_count": 9020,
       "created_at": "2026-09-08T18:29:51Z",
       "updated_at": "2026-09-08T18:29:54Z",
       "browser_download_url": "https://github.com/VirtusLab/scala-cli/releases/download/v1.17.0/scala-cli-x86_64-pc-linux.gz"
@@ -643,7 +643,7 @@
       "state": "uploaded",
       "size": 46989312,
       "digest": "sha256:de4df407ea7c94692fca01ee78dc1a195e0889e9c225f74e01ff00f502d37f8f",
-      "download_count": 39,
+      "download_count": 51,
       "created_at": "2026-09-08T18:29:58Z",
       "updated_at": "2026-09-08T18:29:59Z",
       "browser_download_url": "https://github.com/VirtusLab/scala-cli/releases/download/v1.17.0/scala-cli-x86_64-pc-win32.msi"
@@ -679,7 +679,7 @@
       "state": "uploaded",
       "size": 44262281,
       "digest": "sha256:32142503e100d2daa09066d862a79cb1b2e305a0c239f0d8c585e2cd1407244f",
-      "download_count": 366,
+      "download_count": 418,
       "created_at": "2026-09-08T18:30:00Z",
       "updated_at": "2026-09-08T18:30:02Z",
       "browser_download_url": "https://github.com/VirtusLab/scala-cli/releases/download/v1.17.0/scala-cli-x86_64-pc-win32.zip"
@@ -715,7 +715,7 @@
       "state": "uploaded",
       "size": 127892109,
       "digest": "sha256:1283c6238eb9f881ef0aa034fd0aee705204b7106985e208ce8e914eaf7157fc",
-      "download_count": 11,
+      "download_count": 14,
       "created_at": "2026-09-08T18:30:02Z",
       "updated_at": "2026-09-08T18:30:06Z",
       "browser_download_url": "https://github.com/VirtusLab/scala-cli/releases/download/v1.17.0/scala-cli.jar"
