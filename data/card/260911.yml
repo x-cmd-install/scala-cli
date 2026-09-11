@@ -7,7 +7,7 @@ about:
   latestVersion: "v1.17.0"
   latestRelease: "v1.17.0"
   latestPrerelease: "v1.8.2"
-  collectedAt: 2026-09-11T05:57:46Z
+  collectedAt: 2026-09-11T18:51:20Z
 timeline:
   created: 2021-05-10
   lastCommit: 2026-09-10
@@ -20,7 +20,7 @@ popularity:
   fork: 166
   release: 88
   contributor: 113
-  pullRequest: 3204
+  pullRequest: 3205
   issue: 1169
 language:
   Scala: 3452360
@@ -38,7 +38,7 @@ recent:
     since: 2026-08-12
     release: 1
     mergedPR: 36
-    openPR: 0
+    openPR: 1
     closedIssue: 0
     openIssue: 2
     commit: 39
@@ -46,7 +46,7 @@ recent:
     since: 2026-07-13
     release: 2
     mergedPR: 81
-    openPR: 1
+    openPR: 2
     closedIssue: 3
     openIssue: 3
     commit: 86
@@ -54,7 +54,7 @@ recent:
     since: 2026-06-13
     release: 3
     mergedPR: 117
-    openPR: 2
+    openPR: 3
     closedIssue: 7
     openIssue: 4
     commit: 132
@@ -62,7 +62,7 @@ recent:
     since: 2026-03-15
     release: 6
     mergedPR: 217
-    openPR: 7
+    openPR: 8
     closedIssue: 22
     openIssue: 10
     commit: 257
@@ -70,7 +70,7 @@ recent:
     since: 2025-09-16
     release: 15
     mergedPR: 427
-    openPR: 7
+    openPR: 8
     closedIssue: 62
     openIssue: 28
     commit: 528
@@ -78,20 +78,20 @@ recent:
     since: 2024-09-21
     release: 31
     mergedPR: 841
-    openPR: 7
+    openPR: 8
     closedIssue: 151
     openIssue: 91
     commit: 1189
 total:
   release: 88
   mergedPR: 2753
-  openPR: 7
+  openPR: 8
   closedIssue: 865
   openIssue: 304
   commit: 5487
 ---
 path: /home/runner/.x-repo/github.com/VirtusLab/scala-cli
-collectedAt: 2026-09-11T05:58:00Z
+collectedAt: 2026-09-11T18:51:49Z
 loc:
   Scala:
     code: 86023
