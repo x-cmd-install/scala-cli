@@ -48,12 +48,12 @@ Total: **92,650** lines of code across **944** files in the top 5 languages.
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-14 | 1 | 31 | 3 | 0 | 2 | 39 |
-| last60d | 2026-07-15 | 2 | 79 | 4 | 2 | 3 | 86 |
-| 90d | 2026-06-15 | 3 | 115 | 5 | 6 | 4 | 132 |
-| last180d | 2026-03-17 | 6 | 212 | 10 | 21 | 10 | 257 |
-| 360d | 2025-09-18 | 14 | 424 | 10 | 61 | 27 | 528 |
-| last720d | 2024-09-23 | 31 | 839 | 10 | 149 | 88 | 1189 |
+| 30d | 2026-08-15 | 1 | 31 | 3 | 0 | 2 | 31 |
+| last60d | 2026-07-16 | 2 | 76 | 4 | 2 | 3 | 71 |
+| 90d | 2026-06-16 | 3 | 111 | 4 | 5 | 4 | 117 |
+| last180d | 2026-03-18 | 6 | 211 | 10 | 20 | 10 | 246 |
+| 360d | 2025-09-19 | 14 | 422 | 10 | 61 | 26 | 520 |
+| last720d | 2024-09-24 | 31 | 836 | 10 | 149 | 88 | 1185 |
 
 ## Release assets
 
@@ -80,15 +80,6 @@ Total: **92,650** lines of code across **944** files in the top 5 languages.
 | [scala-cli.jar](https://github.com/VirtusLab/scala-cli/releases/download/v1.17.0/scala-cli.jar) | 122.0 MiB | `other` |
 | [vc_redist.x64.exe](https://github.com/VirtusLab/scala-cli/releases/download/v1.17.0/vc_redist.x64.exe) | 17.9 MiB | `other` |
 
-## Distribution status
-
-Reported by **69** distros on [repology.org](https://repology.org/project/scala-cli). **1** are ✅ on the latest upstream release, **13** are ⚠️ on an older version.
-
-| Distro | Version | Status |
-|--------|---------|--------|
-| Homebrew | `1.16.0` | ⚠️ outdated |
-| Nix unstable | `1.16.0` | ⚠️ outdated |
-
 ## Improve this data
 
 Install metadata for scala-cli lives in the [x-cmd/install](https://github.com/x-cmd/install) index — a curated YAML package list that x-cmd consumes at install time. If `scala-cli` is missing, out of date, or installs incorrectly, please open an issue or PR there:
@@ -98,4 +89,4 @@ Install metadata for scala-cli lives in the [x-cmd/install](https://github.com/x
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260913.yml` · 2026-09-13T06:00:34Z._
+_Snapshot: `data/card/260914.yml` · 2026-09-14T06:12:46Z._
