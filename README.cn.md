@@ -4,7 +4,7 @@
 
 Scala CLI is a command-line tool to interact with the Scala language. It lets you compile, run, test, and package your Scala code (and more!)
 
-![scala-cli](https://repo.x-cmd.io/scala-cli.svg?lang=zh)
+[![x-cmd/install — scala-cli Code Quality Monitoring Repo Card](https://repo.x-cmd.io/scala-cli.svg?lang=zh)](https://x-cmd.com/install/scala-cli)
 
 ## 安装
 
@@ -42,18 +42,18 @@ x install scala-cli
 
 ## 累计统计
 
-- **发布数**: 89 · **已合并 PR**: 2763 · **开放 PR**: 9 · **已关闭 issue**: 867 · **开放 issue**: 304 · **提交数**: 5499
+- **发布数**: 89 · **已合并 PR**: 2763 · **开放 PR**: 11 · **已关闭 issue**: 867 · **开放 issue**: 304 · **提交数**: 5499
 
 ## 最近活动
 
 | 时间窗口 | 起始 | 发布 | 已合并 PR | 开放 PR | 已关闭 issue | 开放 issue | 提交 |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-19 | 2 | 37 | 2 | 2 | 2 | 42 |
-| last60d | 2026-07-20 | 3 | 80 | 3 | 4 | 3 | 82 |
-| 90d | 2026-06-20 | 4 | 116 | 3 | 7 | 4 | 128 |
-| last180d | 2026-03-22 | 6 | 217 | 9 | 21 | 10 | 257 |
-| 360d | 2025-09-23 | 15 | 431 | 9 | 62 | 25 | 531 |
-| last720d | 2024-09-28 | 32 | 841 | 9 | 150 | 87 | 1185 |
+| 30d | 2026-08-21 | 2 | 33 | 4 | 2 | 2 | 42 |
+| last60d | 2026-07-22 | 3 | 76 | 5 | 3 | 3 | 82 |
+| 90d | 2026-06-22 | 4 | 114 | 5 | 6 | 4 | 128 |
+| last180d | 2026-03-24 | 6 | 215 | 11 | 19 | 10 | 257 |
+| 360d | 2025-09-25 | 15 | 427 | 11 | 61 | 25 | 531 |
+| last720d | 2024-09-30 | 32 | 838 | 11 | 149 | 87 | 1184 |
 
 ## Release 资产
 
@@ -89,4 +89,4 @@ scala-cli 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/install
 
 本页面的数据（card / loc / scorecard / release）由 [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) 自动采集，每日重新生成。**安装行为**（版本选择、平台差异、依赖处理）的改进应提交到上游索引。
 
-_数据快照: `data/card/260918.yml` · 2026-09-18T06:01:51Z._
+_数据快照: `data/card/260920.yml` · 2026-09-20T06:04:49Z._
