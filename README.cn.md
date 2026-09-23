@@ -4,7 +4,7 @@
 
 Scala CLI is a command-line tool to interact with the Scala language. It lets you compile, run, test, and package your Scala code (and more!)
 
-[![x-cmd/install — scala-cli Code Quality Monitoring Repo Card](https://repo.x-cmd.io/scala-cli.svg?lang=zh)](https://x-cmd.com/install/scala-cli)
+[![x-cmd/install — scala-cli Code Quality Monitoring Repo Card](https://x-cmd.com/repo-card/scala-cli.svg?lang=zh)](https://x-cmd.com/install/scala-cli)
 
 ## 安装
 
@@ -14,11 +14,11 @@ x install scala-cli
 
 ## 代码洞察
 
-合计: **92,683** 行代码（覆盖前 5 种语言、共 **938** 个文件）。
+合计: **92,782** 行代码（覆盖前 5 种语言、共 **938** 个文件）。
 
 | 语言 | 代码 | 注释 | 空行 | 文件数 |
 |------|-----:|-----:|-----:|------:|
-| Scala | 86,056 | 2,711 | 9,298 | 858 |
+| Scala | 86,155 | 2,734 | 9,312 | 858 |
 | Json | 1,659 | 0 | 0 | 21 |
 | Java | 1,325 | 34 | 186 | 25 |
 | Sass | 923 | 1 | 237 | 11 |
@@ -42,18 +42,18 @@ x install scala-cli
 
 ## 累计统计
 
-- **发布数**: 89 · **已合并 PR**: 2769 · **开放 PR**: 11 · **已关闭 issue**: 871 · **开放 issue**: 301 · **提交数**: 5515
+- **发布数**: 89 · **已合并 PR**: 2772 · **开放 PR**: 18 · **已关闭 issue**: 871 · **开放 issue**: 301 · **提交数**: 5518
 
 ## 最近活动
 
 | 时间窗口 | 起始 | 发布 | 已合并 PR | 开放 PR | 已关闭 issue | 开放 issue | 提交 |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-23 | 2 | 39 | 4 | 5 | 0 | 54 |
-| last60d | 2026-07-24 | 3 | 77 | 5 | 6 | 1 | 88 |
-| 90d | 2026-06-24 | 4 | 112 | 5 | 9 | 2 | 127 |
-| last180d | 2026-03-26 | 6 | 220 | 11 | 22 | 8 | 268 |
-| 360d | 2025-09-27 | 15 | 432 | 11 | 63 | 23 | 538 |
-| last720d | 2024-10-02 | 31 | 842 | 11 | 153 | 84 | 1198 |
+| 30d | 2026-08-24 | 2 | 41 | 11 | 5 | 0 | 57 |
+| last60d | 2026-07-25 | 3 | 80 | 12 | 6 | 1 | 91 |
+| 90d | 2026-06-25 | 4 | 114 | 12 | 9 | 2 | 130 |
+| last180d | 2026-03-27 | 6 | 223 | 18 | 21 | 8 | 271 |
+| 360d | 2025-09-28 | 15 | 435 | 18 | 63 | 23 | 541 |
+| last720d | 2024-10-03 | 31 | 844 | 18 | 153 | 84 | 1199 |
 
 ## Release 资产
 
@@ -89,4 +89,4 @@ scala-cli 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/install
 
 本页面的数据（card / loc / scorecard / release）由 [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) 自动采集，每日重新生成。**安装行为**（版本选择、平台差异、依赖处理）的改进应提交到上游索引。
 
-_数据快照: `data/card/260922.yml` · 2026-09-22T06:20:02Z._
+_数据快照: `data/card/260923.yml` · 2026-09-23T06:16:31Z._
