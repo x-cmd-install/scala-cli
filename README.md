@@ -14,11 +14,11 @@ x install scala-cli
 
 ## Code insight
 
-Total: **92,866** lines of code across **938** files in the top 5 languages.
+Total: **93,265** lines of code across **939** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
-| Scala | 86,239 | 2,737 | 9,320 | 858 |
+| Scala | 86,638 | 2,747 | 9,345 | 859 |
 | Json | 1,659 | 0 | 0 | 21 |
 | Java | 1,325 | 34 | 186 | 25 |
 | Sass | 923 | 1 | 237 | 11 |
@@ -33,27 +33,27 @@ Total: **92,866** lines of code across **938** files in the top 5 languages.
 ## Release
 
 - **Latest**: `v1.17.1` (2026-09-17)
-- **Last commit**: 2026-09-29
+- **Last commit**: 2026-09-30
 - **Assets in release**: 20
 
 ## Popularity
 
-- **Stars**: 644 · **Forks**: 167 · **Open issues**: 1,172 · **Contributors**: 114
+- **Stars**: 644 · **Forks**: 168 · **Open issues**: 1,173 · **Contributors**: 114
 
 ## Totals (cumulative)
 
-- **Releases**: 89 · **Merged PRs**: 2786 · **Open PRs**: 13 · **Closed issues**: 874 · **Open issues**: 298 · **Commits**: 5532
+- **Releases**: 89 · **Merged PRs**: 2790 · **Open PRs**: 9 · **Closed issues**: 876 · **Open issues**: 297 · **Commits**: 5536
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-30 | 2 | 54 | 6 | 5 | 0 | 60 |
-| last60d | 2026-07-31 | 3 | 88 | 6 | 6 | 1 | 93 |
-| 90d | 2026-07-01 | 3 | 125 | 7 | 8 | 2 | 141 |
-| last180d | 2026-04-02 | 6 | 230 | 13 | 21 | 8 | 279 |
-| 360d | 2025-10-04 | 15 | 441 | 13 | 61 | 22 | 548 |
-| last720d | 2024-10-09 | 31 | 856 | 13 | 155 | 80 | 1208 |
+| 30d | 2026-08-31 | 2 | 58 | 2 | 5 | 1 | 64 |
+| last60d | 2026-08-01 | 3 | 92 | 2 | 6 | 2 | 97 |
+| 90d | 2026-07-02 | 3 | 129 | 3 | 8 | 3 | 145 |
+| last180d | 2026-04-03 | 6 | 234 | 9 | 21 | 9 | 283 |
+| 360d | 2025-10-05 | 15 | 445 | 9 | 61 | 23 | 552 |
+| last720d | 2024-10-10 | 31 | 860 | 9 | 157 | 79 | 1212 |
 
 ## Release assets
 
@@ -89,4 +89,4 @@ Install metadata for scala-cli lives in the [x-cmd/install](https://github.com/x
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260929.yml` · 2026-09-29T06:44:49Z._
+_Snapshot: `data/card/260930.yml` · 2026-09-30T06:30:16Z._
