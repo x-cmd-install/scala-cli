@@ -14,11 +14,11 @@ x install scala-cli
 
 ## Code insight
 
-Total: **93,265** lines of code across **939** files in the top 5 languages.
+Total: **93,574** lines of code across **942** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
-| Scala | 86,638 | 2,747 | 9,345 | 859 |
+| Scala | 86,947 | 2,780 | 9,374 | 862 |
 | Json | 1,659 | 0 | 0 | 21 |
 | Java | 1,325 | 34 | 186 | 25 |
 | Sass | 923 | 1 | 237 | 11 |
@@ -38,22 +38,22 @@ Total: **93,265** lines of code across **939** files in the top 5 languages.
 
 ## Popularity
 
-- **Stars**: 644 · **Forks**: 168 · **Open issues**: 1,173 · **Contributors**: 114
+- **Stars**: 644 · **Forks**: 168 · **Open issues**: 1,175 · **Contributors**: 114
 
 ## Totals (cumulative)
 
-- **Releases**: 89 · **Merged PRs**: 2790 · **Open PRs**: 9 · **Closed issues**: 876 · **Open issues**: 297 · **Commits**: 5536
+- **Releases**: 89 · **Merged PRs**: 2792 · **Open PRs**: 10 · **Closed issues**: 880 · **Open issues**: 295 · **Commits**: 5541
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-31 | 2 | 58 | 2 | 5 | 1 | 64 |
-| last60d | 2026-08-01 | 3 | 92 | 2 | 6 | 2 | 97 |
-| 90d | 2026-07-02 | 3 | 129 | 3 | 8 | 3 | 145 |
-| last180d | 2026-04-03 | 6 | 234 | 9 | 21 | 9 | 283 |
-| 360d | 2025-10-05 | 15 | 445 | 9 | 61 | 23 | 552 |
-| last720d | 2024-10-10 | 31 | 860 | 9 | 157 | 79 | 1212 |
+| 30d | 2026-09-01 | 2 | 58 | 3 | 8 | 0 | 68 |
+| last60d | 2026-08-02 | 3 | 94 | 3 | 9 | 1 | 101 |
+| 90d | 2026-07-03 | 3 | 130 | 4 | 11 | 2 | 149 |
+| last180d | 2026-04-04 | 6 | 236 | 10 | 24 | 8 | 287 |
+| 360d | 2025-10-06 | 15 | 446 | 10 | 64 | 21 | 556 |
+| last720d | 2024-10-11 | 31 | 861 | 10 | 161 | 77 | 1217 |
 
 ## Release assets
 
@@ -89,4 +89,4 @@ Install metadata for scala-cli lives in the [x-cmd/install](https://github.com/x
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260930.yml` · 2026-09-30T06:30:16Z._
+_Snapshot: `data/card/261001.yml` · 2026-10-01T06:49:29Z._
