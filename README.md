@@ -14,11 +14,11 @@ x install scala-cli
 
 ## Code insight
 
-Total: **99,727** lines of code across **954** files in the top 5 languages.
+Total: **99,964** lines of code across **954** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
-| Scala | 87,794 | 2,909 | 9,433 | 864 |
+| Scala | 88,031 | 2,914 | 9,457 | 864 |
 | Css | 3,802 | 149 | 656 | 2 |
 | Tsx | 3,104 | 98 | 248 | 43 |
 | Json | 1,716 | 0 | 0 | 23 |
@@ -42,18 +42,18 @@ Total: **99,727** lines of code across **954** files in the top 5 languages.
 
 ## Totals (cumulative)
 
-- **Releases**: 90 · **Merged PRs**: 2833 · **Open PRs**: 10 · **Closed issues**: 884 · **Open issues**: 294 · **Commits**: 5590
+- **Releases**: 90 · **Merged PRs**: 2836 · **Open PRs**: 7 · **Closed issues**: 884 · **Open issues**: 294 · **Commits**: 5594
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-21 | 1 | 62 | 3 | 6 | 0 | 61 |
-| last60d | 2026-08-22 | 3 | 103 | 3 | 11 | 0 | 121 |
-| 90d | 2026-07-23 | 4 | 144 | 4 | 12 | 1 | 159 |
-| last180d | 2026-04-24 | 6 | 252 | 8 | 23 | 5 | 295 |
-| 360d | 2025-10-26 | 16 | 475 | 10 | 65 | 19 | 573 |
-| last720d | 2024-10-31 | 32 | 884 | 10 | 162 | 74 | 1242 |
+| 30d | 2026-09-22 | 1 | 60 | 0 | 6 | 0 | 64 |
+| last60d | 2026-08-23 | 3 | 106 | 0 | 11 | 0 | 124 |
+| 90d | 2026-07-24 | 4 | 144 | 1 | 12 | 1 | 162 |
+| last180d | 2026-04-25 | 6 | 255 | 5 | 23 | 5 | 298 |
+| 360d | 2025-10-27 | 16 | 476 | 7 | 65 | 19 | 576 |
+| last720d | 2024-11-01 | 32 | 887 | 7 | 162 | 74 | 1246 |
 
 ## Release assets
 
@@ -89,4 +89,4 @@ Install metadata for scala-cli lives in the [x-cmd/install](https://github.com/x
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261021.yml` · 2026-10-21T05:37:58Z._
+_Snapshot: `data/card/261022.yml` · 2026-10-22T05:42:21Z._
