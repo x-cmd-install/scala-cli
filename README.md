@@ -33,7 +33,7 @@ Total: **100,283** lines of code across **974** files in the top 5 languages.
 ## Release
 
 - **Latest**: `v1.18.0` (2026-10-06)
-- **Last commit**: 2026-10-30
+- **Last commit**: 2026-11-02
 - **Assets in release**: 20
 
 ## Popularity
@@ -42,18 +42,18 @@ Total: **100,283** lines of code across **974** files in the top 5 languages.
 
 ## Totals (cumulative)
 
-- **Releases**: 90 · **Merged PRs**: 2857 · **Open PRs**: 15 · **Closed issues**: 884 · **Open issues**: 295 · **Commits**: 5629
+- **Releases**: 90 · **Merged PRs**: 2858 · **Open PRs**: 14 · **Closed issues**: 884 · **Open issues**: 295 · **Commits**: 5630
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-02 | 1 | 56 | 9 | 3 | 1 | 51 |
-| last60d | 2026-09-02 | 3 | 121 | 9 | 10 | 1 | 137 |
-| 90d | 2026-08-03 | 4 | 156 | 9 | 11 | 2 | 175 |
-| last180d | 2026-05-05 | 6 | 271 | 14 | 21 | 5 | 316 |
-| 360d | 2025-11-06 | 16 | 482 | 15 | 64 | 19 | 591 |
-| last720d | 2024-11-11 | 32 | 905 | 15 | 160 | 72 | 1276 |
+| 30d | 2026-10-03 | 1 | 56 | 8 | 3 | 1 | 52 |
+| last60d | 2026-09-03 | 3 | 120 | 8 | 9 | 1 | 138 |
+| 90d | 2026-08-04 | 3 | 152 | 8 | 11 | 1 | 176 |
+| last180d | 2026-05-06 | 6 | 272 | 13 | 20 | 5 | 317 |
+| 360d | 2025-11-07 | 16 | 480 | 14 | 63 | 19 | 592 |
+| last720d | 2024-11-12 | 32 | 902 | 14 | 159 | 71 | 1277 |
 
 ## Release assets
 
@@ -98,4 +98,4 @@ Install metadata for scala-cli lives in the [x-cmd/install](https://github.com/x
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261101.yml` · 2026-11-01T07:08:17Z._
+_Snapshot: `data/card/261102.yml` · 2026-11-02T07:12:22Z._
