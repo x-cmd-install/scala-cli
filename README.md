@@ -48,12 +48,12 @@ Total: **100,454** lines of code across **977** files in the top 5 languages.
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-05 | 1 | 65 | 9 | 4 | 1 | 64 |
-| last60d | 2026-09-05 | 3 | 126 | 9 | 10 | 1 | 150 |
-| 90d | 2026-08-06 | 3 | 160 | 9 | 12 | 1 | 188 |
-| last180d | 2026-05-08 | 6 | 277 | 14 | 21 | 4 | 329 |
-| 360d | 2025-11-09 | 15 | 490 | 15 | 64 | 19 | 604 |
-| last720d | 2024-11-14 | 31 | 904 | 15 | 159 | 71 | 1277 |
+| 30d | 2026-10-06 | 1 | 58 | 9 | 3 | 1 | 64 |
+| last60d | 2026-09-06 | 3 | 126 | 9 | 10 | 1 | 150 |
+| 90d | 2026-08-07 | 3 | 160 | 9 | 12 | 1 | 188 |
+| last180d | 2026-05-09 | 6 | 275 | 14 | 21 | 4 | 329 |
+| 360d | 2025-11-10 | 15 | 490 | 15 | 63 | 19 | 604 |
+| last720d | 2024-11-15 | 30 | 899 | 15 | 159 | 71 | 1277 |
 
 ## Release assets
 
@@ -98,4 +98,4 @@ Install metadata for scala-cli lives in the [x-cmd/install](https://github.com/x
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261104.yml` · 2026-11-04T07:23:51Z._
+_Snapshot: `data/card/261105.yml` · 2026-11-05T07:40:12Z._
