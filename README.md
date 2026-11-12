@@ -32,8 +32,8 @@ Total: **100,733** lines of code across **980** files in the top 5 languages.
 
 ## Release
 
-- **Latest**: `v1.18.0` (2026-10-06)
-- **Last commit**: 2026-11-10
+- **Latest**: `v1.19.0` (2026-10-06)
+- **Last commit**: 2026-11-12
 - **Assets in release**: 20
 
 ## Popularity
@@ -42,18 +42,18 @@ Total: **100,733** lines of code across **980** files in the top 5 languages.
 
 ## Totals (cumulative)
 
-- **Releases**: 90 · **Merged PRs**: 2885 · **Open PRs**: 8 · **Closed issues**: 891 · **Open issues**: 289 · **Commits**: 5668
+- **Releases**: 91 · **Merged PRs**: 2886 · **Open PRs**: 8 · **Closed issues**: 891 · **Open issues**: 289 · **Commits**: 5669
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-12 | 0 | 68 | 2 | 2 | 1 | 79 |
-| last60d | 2026-09-12 | 2 | 130 | 2 | 10 | 1 | 147 |
-| 90d | 2026-08-13 | 3 | 164 | 2 | 12 | 1 | 200 |
-| last180d | 2026-05-15 | 5 | 280 | 7 | 20 | 4 | 335 |
-| 360d | 2025-11-16 | 14 | 503 | 8 | 66 | 14 | 616 |
-| last720d | 2024-11-21 | 29 | 905 | 8 | 160 | 67 | 1274 |
+| 30d | 2026-10-13 | 1 | 67 | 2 | 2 | 1 | 80 |
+| last60d | 2026-09-13 | 3 | 131 | 2 | 10 | 1 | 148 |
+| 90d | 2026-08-14 | 4 | 164 | 2 | 12 | 1 | 201 |
+| last180d | 2026-05-16 | 6 | 281 | 7 | 20 | 4 | 336 |
+| 360d | 2025-11-17 | 15 | 501 | 8 | 64 | 14 | 617 |
+| last720d | 2024-11-22 | 30 | 904 | 8 | 159 | 67 | 1270 |
 
 ## Release assets
 
@@ -98,4 +98,4 @@ Install metadata for scala-cli lives in the [x-cmd/install](https://github.com/x
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261111.yml` · 2026-11-11T07:20:34Z._
+_Snapshot: `data/card/261112.yml` · 2026-11-12T08:42:37Z._
