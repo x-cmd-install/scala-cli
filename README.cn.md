@@ -14,11 +14,11 @@ x install scala-cli
 
 ## 代码洞察
 
-合计: **100,733** 行代码（覆盖前 5 种语言、共 **980** 个文件）。
+合计: **100,763** 行代码（覆盖前 5 种语言、共 **980** 个文件）。
 
 | 语言 | 代码 | 注释 | 空行 | 文件数 |
 |------|-----:|-----:|-----:|------:|
-| Scala | 88,806 | 2,988 | 9,560 | 890 |
+| Scala | 88,836 | 3,003 | 9,564 | 890 |
 | Css | 3,802 | 149 | 656 | 2 |
 | Tsx | 3,104 | 98 | 248 | 43 |
 | Json | 1,716 | 0 | 0 | 23 |
@@ -32,62 +32,66 @@ x install scala-cli
 
 ## 发布
 
-- **最新版本**: `v1.19.0` (2026-10-06)
+- **最新版本**: `v1.19.0` (2026-11-11)
 - **最近提交**: 2026-11-12
-- **Release 含资产**: 20 个
+- **Release 含资产**: 24 个
 
 ## 流行度
 
-- **Star**: 645 · **Fork**: 168 · **开放 issue**: 1,180 · **贡献者**: 117
+- **Star**: 645 · **Fork**: 168 · **开放 issue**: 1,181 · **贡献者**: 117
 
 ## 累计统计
 
-- **发布数**: 91 · **已合并 PR**: 2886 · **开放 PR**: 8 · **已关闭 issue**: 891 · **开放 issue**: 289 · **提交数**: 5669
+- **发布数**: 91 · **已合并 PR**: 2890 · **开放 PR**: 7 · **已关闭 issue**: 892 · **开放 issue**: 289 · **提交数**: 5673
 
 ## 最近活动
 
 | 时间窗口 | 起始 | 发布 | 已合并 PR | 开放 PR | 已关闭 issue | 开放 issue | 提交 |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-13 | 1 | 67 | 2 | 2 | 1 | 80 |
-| last60d | 2026-09-13 | 3 | 131 | 2 | 10 | 1 | 148 |
-| 90d | 2026-08-14 | 4 | 164 | 2 | 12 | 1 | 201 |
-| last180d | 2026-05-16 | 6 | 281 | 7 | 20 | 4 | 336 |
-| 360d | 2025-11-17 | 15 | 501 | 8 | 64 | 14 | 617 |
-| last720d | 2024-11-22 | 30 | 904 | 8 | 159 | 67 | 1270 |
+| 30d | 2026-10-14 | 1 | 70 | 1 | 3 | 1 | 84 |
+| last60d | 2026-09-14 | 3 | 134 | 1 | 11 | 1 | 152 |
+| 90d | 2026-08-15 | 4 | 168 | 1 | 13 | 1 | 205 |
+| last180d | 2026-05-17 | 6 | 285 | 6 | 21 | 4 | 340 |
+| 360d | 2025-11-18 | 15 | 503 | 7 | 65 | 14 | 621 |
+| last720d | 2024-11-23 | 30 | 908 | 7 | 160 | 67 | 1273 |
 
 ## Release 资产
 
 | 资产 | 大小 | 目标平台 |
 |------|-----:|----------|
-| [scala-cli](https://github.com/VirtusLab/scala-cli/releases/download/v1.18.0/scala-cli) | 8.0 MiB | `other` |
-| [scala-cli-aarch64-apple-darwin-sdk.zip](https://github.com/VirtusLab/scala-cli/releases/download/v1.18.0/scala-cli-aarch64-apple-darwin-sdk.zip) | 40.7 MiB | `native/darwin/arm64` |
-| [scala-cli-aarch64-apple-darwin.gz](https://github.com/VirtusLab/scala-cli/releases/download/v1.18.0/scala-cli-aarch64-apple-darwin.gz) | 40.6 MiB | `native/darwin/arm64` |
-| [scala-cli-aarch64-apple-darwin.pkg](https://github.com/VirtusLab/scala-cli/releases/download/v1.18.0/scala-cli-aarch64-apple-darwin.pkg) | 40.6 MiB | `native/darwin/arm64` |
-| [scala-cli-aarch64-pc-linux-static-sdk.zip](https://github.com/VirtusLab/scala-cli/releases/download/v1.18.0/scala-cli-aarch64-pc-linux-static-sdk.zip) | 41.6 MiB | `native/linux/arm64` |
-| [scala-cli-aarch64-pc-linux.gz](https://github.com/VirtusLab/scala-cli/releases/download/v1.18.0/scala-cli-aarch64-pc-linux.gz) | 41.5 MiB | `native/linux/arm64` |
-| [scala-cli-x86_64-apple-darwin-sdk.zip](https://github.com/VirtusLab/scala-cli/releases/download/v1.18.0/scala-cli-x86_64-apple-darwin-sdk.zip) | 40.8 MiB | `native/darwin/x64` |
-| [scala-cli-x86_64-apple-darwin.gz](https://github.com/VirtusLab/scala-cli/releases/download/v1.18.0/scala-cli-x86_64-apple-darwin.gz) | 40.6 MiB | `native/darwin/x64` |
-| [scala-cli-x86_64-apple-darwin.pkg](https://github.com/VirtusLab/scala-cli/releases/download/v1.18.0/scala-cli-x86_64-apple-darwin.pkg) | 40.6 MiB | `native/darwin/x64` |
-| [scala-cli-x86_64-pc-linux-mostly-static.gz](https://github.com/VirtusLab/scala-cli/releases/download/v1.18.0/scala-cli-x86_64-pc-linux-mostly-static.gz) | 42.6 MiB | `native/linux/x64` |
-| [scala-cli-x86_64-pc-linux-static-sdk.zip](https://github.com/VirtusLab/scala-cli/releases/download/v1.18.0/scala-cli-x86_64-pc-linux-static-sdk.zip) | 42.7 MiB | `native/linux/x64` |
-| [scala-cli-x86_64-pc-linux-static.gz](https://github.com/VirtusLab/scala-cli/releases/download/v1.18.0/scala-cli-x86_64-pc-linux-static.gz) | 40.9 MiB | `native/linux/x64` |
-| [scala-cli-x86_64-pc-linux.deb](https://github.com/VirtusLab/scala-cli/releases/download/v1.18.0/scala-cli-x86_64-pc-linux.deb) | 31.6 MiB | `native/linux/x64` |
-| [scala-cli-x86_64-pc-linux.gz](https://github.com/VirtusLab/scala-cli/releases/download/v1.18.0/scala-cli-x86_64-pc-linux.gz) | 42.5 MiB | `native/linux/x64` |
-| [scala-cli-x86_64-pc-linux.rpm](https://github.com/VirtusLab/scala-cli/releases/download/v1.18.0/scala-cli-x86_64-pc-linux.rpm) | 42.0 MiB | `native/linux/x64` |
-| [scala-cli-x86_64-pc-win32-sdk.zip](https://github.com/VirtusLab/scala-cli/releases/download/v1.18.0/scala-cli-x86_64-pc-win32-sdk.zip) | 39.9 MiB | `native/win/x64` |
-| [scala-cli-x86_64-pc-win32.msi](https://github.com/VirtusLab/scala-cli/releases/download/v1.18.0/scala-cli-x86_64-pc-win32.msi) | 43.7 MiB | `native/win/x64` |
-| [scala-cli-x86_64-pc-win32.zip](https://github.com/VirtusLab/scala-cli/releases/download/v1.18.0/scala-cli-x86_64-pc-win32.zip) | 41.1 MiB | `native/win/x64` |
-| [scala-cli.jar](https://github.com/VirtusLab/scala-cli/releases/download/v1.18.0/scala-cli.jar) | 122.5 MiB | `other` |
-| [vc_redist.x64.exe](https://github.com/VirtusLab/scala-cli/releases/download/v1.18.0/vc_redist.x64.exe) | 17.9 MiB | `other` |
+| [scala-cli](https://github.com/VirtusLab/scala-cli/releases/download/v1.19.0/scala-cli) | 8.0 MiB | `other` |
+| [scala-cli-aarch64-apple-darwin-sdk.zip](https://github.com/VirtusLab/scala-cli/releases/download/v1.19.0/scala-cli-aarch64-apple-darwin-sdk.zip) | 42.7 MiB | `native/darwin/arm64` |
+| [scala-cli-aarch64-apple-darwin.gz](https://github.com/VirtusLab/scala-cli/releases/download/v1.19.0/scala-cli-aarch64-apple-darwin.gz) | 42.6 MiB | `native/darwin/arm64` |
+| [scala-cli-aarch64-apple-darwin.pkg](https://github.com/VirtusLab/scala-cli/releases/download/v1.19.0/scala-cli-aarch64-apple-darwin.pkg) | 42.6 MiB | `native/darwin/arm64` |
+| [scala-cli-aarch64-pc-linux-static-sdk.zip](https://github.com/VirtusLab/scala-cli/releases/download/v1.19.0/scala-cli-aarch64-pc-linux-static-sdk.zip) | 43.0 MiB | `native/linux/arm64` |
+| [scala-cli-aarch64-pc-linux.deb](https://github.com/VirtusLab/scala-cli/releases/download/v1.19.0/scala-cli-aarch64-pc-linux.deb) | 31.9 MiB | `native/linux/arm64` |
+| [scala-cli-aarch64-pc-linux.gz](https://github.com/VirtusLab/scala-cli/releases/download/v1.19.0/scala-cli-aarch64-pc-linux.gz) | 42.8 MiB | `native/linux/arm64` |
+| [scala-cli-aarch64-pc-linux.rpm](https://github.com/VirtusLab/scala-cli/releases/download/v1.19.0/scala-cli-aarch64-pc-linux.rpm) | 42.5 MiB | `native/linux/arm64` |
+| [scala-cli-aarch64-pc-win32-jvm.zip](https://github.com/VirtusLab/scala-cli/releases/download/v1.19.0/scala-cli-aarch64-pc-win32-jvm.zip) | 150.9 MiB | `native/win/arm64` |
+| [scala-cli-aarch64-pc-win32.msi](https://github.com/VirtusLab/scala-cli/releases/download/v1.19.0/scala-cli-aarch64-pc-win32.msi) | 150.9 MiB | `native/win/arm64` |
+| [scala-cli-x86_64-apple-darwin-sdk.zip](https://github.com/VirtusLab/scala-cli/releases/download/v1.19.0/scala-cli-x86_64-apple-darwin-sdk.zip) | 42.6 MiB | `native/darwin/x64` |
+| [scala-cli-x86_64-apple-darwin.gz](https://github.com/VirtusLab/scala-cli/releases/download/v1.19.0/scala-cli-x86_64-apple-darwin.gz) | 42.5 MiB | `native/darwin/x64` |
+| [scala-cli-x86_64-apple-darwin.pkg](https://github.com/VirtusLab/scala-cli/releases/download/v1.19.0/scala-cli-x86_64-apple-darwin.pkg) | 42.5 MiB | `native/darwin/x64` |
+| [scala-cli-x86_64-pc-linux-mostly-static.gz](https://github.com/VirtusLab/scala-cli/releases/download/v1.19.0/scala-cli-x86_64-pc-linux-mostly-static.gz) | 43.8 MiB | `native/linux/x64` |
+| [scala-cli-x86_64-pc-linux-static-sdk.zip](https://github.com/VirtusLab/scala-cli/releases/download/v1.19.0/scala-cli-x86_64-pc-linux-static-sdk.zip) | 44.0 MiB | `native/linux/x64` |
+| [scala-cli-x86_64-pc-linux-static.gz](https://github.com/VirtusLab/scala-cli/releases/download/v1.19.0/scala-cli-x86_64-pc-linux-static.gz) | 42.8 MiB | `native/linux/x64` |
+| [scala-cli-x86_64-pc-linux.deb](https://github.com/VirtusLab/scala-cli/releases/download/v1.19.0/scala-cli-x86_64-pc-linux.deb) | 33.2 MiB | `native/linux/x64` |
+| [scala-cli-x86_64-pc-linux.gz](https://github.com/VirtusLab/scala-cli/releases/download/v1.19.0/scala-cli-x86_64-pc-linux.gz) | 43.8 MiB | `native/linux/x64` |
+| [scala-cli-x86_64-pc-linux.rpm](https://github.com/VirtusLab/scala-cli/releases/download/v1.19.0/scala-cli-x86_64-pc-linux.rpm) | 43.4 MiB | `native/linux/x64` |
+| [scala-cli-x86_64-pc-win32-sdk.zip](https://github.com/VirtusLab/scala-cli/releases/download/v1.19.0/scala-cli-x86_64-pc-win32-sdk.zip) | 42.2 MiB | `native/win/x64` |
+| [scala-cli-x86_64-pc-win32.msi](https://github.com/VirtusLab/scala-cli/releases/download/v1.19.0/scala-cli-x86_64-pc-win32.msi) | 46.0 MiB | `native/win/x64` |
+| [scala-cli-x86_64-pc-win32.zip](https://github.com/VirtusLab/scala-cli/releases/download/v1.19.0/scala-cli-x86_64-pc-win32.zip) | 43.4 MiB | `native/win/x64` |
+| [scala-cli.jar](https://github.com/VirtusLab/scala-cli/releases/download/v1.19.0/scala-cli.jar) | 114.9 MiB | `other` |
+| [vc_redist.x64.exe](https://github.com/VirtusLab/scala-cli/releases/download/v1.19.0/vc_redist.x64.exe) | 17.9 MiB | `other` |
 
 ## 发行版状态
 
-在 [repology.org](https://repology.org/project/scala-cli) 上共有 **69** 个发行版报告此项目。**8** 个 ✅ 已是最新上游版本，**6** 个 ⚠️ 使用旧版本。
+在 [repology.org](https://repology.org/project/scala-cli) 上共有 **69** 个发行版报告此项目。**2** 个 ✅ 已是最新上游版本，**12** 个 ⚠️ 使用旧版本。
 
 | 发行版 | 版本 | 状态 |
 |--------|------|------|
-| Homebrew | `1.18.0` | ✅ latest |
-| Nix unstable | `1.18.0` | ✅ latest |
+| Homebrew | `1.18.0` | ⚠️ outdated |
+| Nix unstable | `1.18.0` | ⚠️ outdated |
 
 ## 改进这些数据
 
@@ -98,4 +102,4 @@ scala-cli 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/install
 
 本页面的数据（card / loc / scorecard / release）由 [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) 自动采集，每日重新生成。**安装行为**（版本选择、平台差异、依赖处理）的改进应提交到上游索引。
 
-_数据快照: `data/card/261112.yml` · 2026-11-12T08:42:37Z._
+_数据快照: `data/card/261113.yml` · 2026-11-13T08:05:03Z._
