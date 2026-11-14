@@ -14,11 +14,11 @@ x install scala-cli
 
 ## Code insight
 
-Total: **100,763** lines of code across **980** files in the top 5 languages.
+Total: **100,773** lines of code across **980** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
-| Scala | 88,836 | 3,003 | 9,564 | 890 |
+| Scala | 88,846 | 3,005 | 9,567 | 890 |
 | Css | 3,802 | 149 | 656 | 2 |
 | Tsx | 3,104 | 98 | 248 | 43 |
 | Json | 1,716 | 0 | 0 | 23 |
@@ -33,27 +33,27 @@ Total: **100,763** lines of code across **980** files in the top 5 languages.
 ## Release
 
 - **Latest**: `v1.19.0` (2026-11-11)
-- **Last commit**: 2026-11-12
+- **Last commit**: 2026-11-13
 - **Assets in release**: 24
 
 ## Popularity
 
-- **Stars**: 645 · **Forks**: 168 · **Open issues**: 1,181 · **Contributors**: 117
+- **Stars**: 645 · **Forks**: 169 · **Open issues**: 1,181 · **Contributors**: 117
 
 ## Totals (cumulative)
 
-- **Releases**: 91 · **Merged PRs**: 2890 · **Open PRs**: 7 · **Closed issues**: 892 · **Open issues**: 289 · **Commits**: 5673
+- **Releases**: 91 · **Merged PRs**: 2891 · **Open PRs**: 9 · **Closed issues**: 892 · **Open issues**: 289 · **Commits**: 5676
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-14 | 1 | 70 | 1 | 3 | 1 | 84 |
-| last60d | 2026-09-14 | 3 | 134 | 1 | 11 | 1 | 152 |
-| 90d | 2026-08-15 | 4 | 168 | 1 | 13 | 1 | 205 |
-| last180d | 2026-05-17 | 6 | 285 | 6 | 21 | 4 | 340 |
-| 360d | 2025-11-18 | 15 | 503 | 7 | 65 | 14 | 621 |
-| last720d | 2024-11-23 | 30 | 908 | 7 | 160 | 67 | 1273 |
+| 30d | 2026-10-15 | 1 | 68 | 3 | 3 | 1 | 86 |
+| last60d | 2026-09-15 | 3 | 131 | 3 | 11 | 1 | 154 |
+| 90d | 2026-08-16 | 4 | 169 | 3 | 13 | 1 | 207 |
+| last180d | 2026-05-18 | 6 | 286 | 8 | 21 | 4 | 342 |
+| 360d | 2025-11-19 | 15 | 504 | 9 | 65 | 14 | 623 |
+| last720d | 2024-11-24 | 30 | 909 | 9 | 160 | 67 | 1276 |
 
 ## Release assets
 
@@ -86,11 +86,11 @@ Total: **100,763** lines of code across **980** files in the top 5 languages.
 
 ## Distribution status
 
-Reported by **69** distros on [repology.org](https://repology.org/project/scala-cli). **2** are ✅ on the latest upstream release, **12** are ⚠️ on an older version.
+Reported by **69** distros on [repology.org](https://repology.org/project/scala-cli). **3** are ✅ on the latest upstream release, **11** are ⚠️ on an older version.
 
 | Distro | Version | Status |
 |--------|---------|--------|
-| Homebrew | `1.18.0` | ⚠️ outdated |
+| Homebrew | `1.19.0` | ✅ latest |
 | Nix unstable | `1.18.0` | ⚠️ outdated |
 
 ## Improve this data
@@ -102,4 +102,4 @@ Install metadata for scala-cli lives in the [x-cmd/install](https://github.com/x
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261113.yml` · 2026-11-13T08:05:02Z._
+_Snapshot: `data/card/261114.yml` · 2026-11-14T07:48:54Z._
