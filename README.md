@@ -42,18 +42,18 @@ Total: **100,773** lines of code across **980** files in the top 5 languages.
 
 ## Totals (cumulative)
 
-- **Releases**: 91 · **Merged PRs**: 2891 · **Open PRs**: 9 · **Closed issues**: 892 · **Open issues**: 289 · **Commits**: 5676
+- **Releases**: 91 · **Merged PRs**: 2891 · **Open PRs**: 11 · **Closed issues**: 892 · **Open issues**: 289 · **Commits**: 5676
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-16 | 1 | 67 | 3 | 3 | 1 | 86 |
-| last60d | 2026-09-16 | 3 | 129 | 3 | 11 | 1 | 154 |
-| 90d | 2026-08-17 | 4 | 169 | 3 | 13 | 1 | 207 |
-| last180d | 2026-05-19 | 6 | 283 | 7 | 21 | 4 | 342 |
-| 360d | 2025-11-20 | 15 | 503 | 9 | 63 | 14 | 623 |
-| last720d | 2024-11-25 | 30 | 909 | 9 | 158 | 66 | 1276 |
+| 30d | 2026-10-17 | 1 | 67 | 5 | 3 | 1 | 71 |
+| last60d | 2026-09-17 | 3 | 126 | 5 | 9 | 1 | 136 |
+| 90d | 2026-08-18 | 4 | 168 | 5 | 13 | 1 | 196 |
+| last180d | 2026-05-20 | 6 | 281 | 9 | 21 | 4 | 336 |
+| 360d | 2025-11-21 | 15 | 503 | 11 | 62 | 13 | 603 |
+| last720d | 2024-11-26 | 30 | 909 | 11 | 157 | 66 | 1275 |
 
 ## Release assets
 
@@ -86,12 +86,12 @@ Total: **100,773** lines of code across **980** files in the top 5 languages.
 
 ## Distribution status
 
-Reported by **69** distros on [repology.org](https://repology.org/project/scala-cli). **3** are ✅ on the latest upstream release, **11** are ⚠️ on an older version.
+Reported by **69** distros on [repology.org](https://repology.org/project/scala-cli). **5** are ✅ on the latest upstream release, **9** are ⚠️ on an older version.
 
 | Distro | Version | Status |
 |--------|---------|--------|
 | Homebrew | `1.19.0` | ✅ latest |
-| Nix unstable | `1.18.0` | ⚠️ outdated |
+| Nix unstable | `1.19.0` | ✅ latest |
 
 ## Improve this data
 
@@ -102,4 +102,4 @@ Install metadata for scala-cli lives in the [x-cmd/install](https://github.com/x
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261115.yml` · 2026-11-15T07:51:39Z._
+_Snapshot: `data/card/261116.yml` · 2026-11-16T08:24:53Z._
