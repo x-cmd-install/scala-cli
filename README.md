@@ -38,22 +38,22 @@ Total: **100,773** lines of code across **980** files in the top 5 languages.
 
 ## Popularity
 
-- **Stars**: 645 · **Forks**: 169 · **Open issues**: 1,181 · **Contributors**: 117
+- **Stars**: 646 · **Forks**: 169 · **Open issues**: 1,181 · **Contributors**: 117
 
 ## Totals (cumulative)
 
-- **Releases**: 91 · **Merged PRs**: 2891 · **Open PRs**: 11 · **Closed issues**: 892 · **Open issues**: 289 · **Commits**: 5676
+- **Releases**: 91 · **Merged PRs**: 2891 · **Open PRs**: 12 · **Closed issues**: 892 · **Open issues**: 289 · **Commits**: 5676
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-17 | 1 | 67 | 5 | 3 | 1 | 71 |
-| last60d | 2026-09-17 | 3 | 126 | 5 | 9 | 1 | 136 |
-| 90d | 2026-08-18 | 4 | 168 | 5 | 13 | 1 | 196 |
-| last180d | 2026-05-20 | 6 | 281 | 9 | 21 | 4 | 336 |
-| 360d | 2025-11-21 | 15 | 503 | 11 | 62 | 13 | 603 |
-| last720d | 2024-11-26 | 30 | 909 | 11 | 157 | 66 | 1275 |
+| 30d | 2026-10-18 | 1 | 67 | 6 | 3 | 1 | 71 |
+| last60d | 2026-09-18 | 2 | 125 | 6 | 9 | 1 | 136 |
+| 90d | 2026-08-19 | 4 | 165 | 6 | 13 | 1 | 196 |
+| last180d | 2026-05-21 | 6 | 281 | 10 | 21 | 3 | 336 |
+| 360d | 2025-11-22 | 15 | 503 | 12 | 62 | 13 | 603 |
+| last720d | 2024-11-27 | 30 | 906 | 12 | 157 | 66 | 1275 |
 
 ## Release assets
 
@@ -86,7 +86,7 @@ Total: **100,773** lines of code across **980** files in the top 5 languages.
 
 ## Distribution status
 
-Reported by **69** distros on [repology.org](https://repology.org/project/scala-cli). **5** are ✅ on the latest upstream release, **9** are ⚠️ on an older version.
+Reported by **69** distros on [repology.org](https://repology.org/project/scala-cli). **6** are ✅ on the latest upstream release, **8** are ⚠️ on an older version.
 
 | Distro | Version | Status |
 |--------|---------|--------|
@@ -102,4 +102,4 @@ Install metadata for scala-cli lives in the [x-cmd/install](https://github.com/x
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261116.yml` · 2026-11-16T08:24:53Z._
+_Snapshot: `data/card/261117.yml` · 2026-11-17T09:09:39Z._
