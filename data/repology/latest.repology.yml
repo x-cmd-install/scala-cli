@@ -1,17 +1,104 @@
-- repo: homebrew
-  srcname: scala-cli
+- repo: wakemeops
+  subrepo: dev
+  binname: scala-cli
   visiblename: scala-cli
-  version: 1.19.0
+  version: 1.10.1
+  origversion: 1.10.1-1~ops2deb
+  status: legacy
+  maintainers:
+    - ops2deb@upciti.com
+- repo: wakemeops
+  subrepo: dev
+  binname: scala-cli
+  visiblename: scala-cli
+  version: 1.10.0
+  origversion: 1.10.0-1~ops2deb
+  status: legacy
+  maintainers:
+    - ops2deb@upciti.com
+- repo: wakemeops
+  subrepo: dev
+  binname: scala-cli
+  visiblename: scala-cli
+  version: 1.9.1
+  origversion: 1.9.1-1~ops2deb
+  status: legacy
+  maintainers:
+    - ops2deb@upciti.com
+- repo: wakemeops
+  subrepo: dev
+  binname: scala-cli
+  visiblename: scala-cli
+  version: 1.9.0
+  origversion: 1.9.0-1~ops2deb
+  status: legacy
+  maintainers:
+    - ops2deb@upciti.com
+- repo: wakemeops
+  subrepo: dev
+  binname: scala-cli
+  visiblename: scala-cli
+  version: 1.8.5
+  origversion: 1.8.5-1~ops2deb
+  status: legacy
+  maintainers:
+    - ops2deb@upciti.com
+- repo: wakemeops
+  subrepo: dev
+  binname: scala-cli
+  visiblename: scala-cli
+  version: 1.8.4
+  origversion: 1.8.4-1~ops2deb
+  status: legacy
+  maintainers:
+    - ops2deb@upciti.com
+- repo: wakemeops
+  subrepo: dev
+  binname: scala-cli
+  visiblename: scala-cli
+  version: 1.8.3
+  origversion: 1.8.3-1~ops2deb
+  status: legacy
+  maintainers:
+    - ops2deb@upciti.com
+- repo: wakemeops
+  subrepo: dev
+  binname: scala-cli
+  visiblename: scala-cli
+  version: 1.8.1
+  origversion: 1.8.1-1~ops2deb
+  status: legacy
+  maintainers:
+    - ops2deb@upciti.com
+- repo: wakemeops
+  subrepo: dev
+  binname: scala-cli
+  visiblename: scala-cli
+  version: 1.8.0
+  origversion: 1.8.0-1~ops2deb
+  status: legacy
+  maintainers:
+    - ops2deb@upciti.com
+- repo: liguros_stable
+  srcname: dev-java/scala-cli-bin
+  visiblename: dev-java/scala-cli-bin
+  version: 1.6.1
   origversion: null
-  status: newest
-  summary: Scala language runner and build tool
+  status: legacy
+  summary: CLI to interact with Scala and Java
+  maintainers:
+    - flow@gentoo.org
+  licenses:
+    - Apache-2.0
+  categories:
+    - dev-java
 - repo: aur
   srcname: scala-cli
   binname: scala-cli
   visiblename: scala-cli
-  version: 1.18.0
-  origversion: 1.18.0-1
-  status: outdated
+  version: 1.19.0
+  origversion: 1.19.0-1
+  status: newest
   summary: A command-line tool to interact with the Scala language
   maintainers:
     - techcable@aur
@@ -64,23 +151,17 @@
     - Apache-2.0
   categories:
     - dev-java
+- repo: homebrew
+  srcname: scala-cli
+  visiblename: scala-cli
+  version: 1.19.0
+  origversion: null
+  status: newest
+  summary: Scala language runner and build tool
 - repo: liguros_stable
   srcname: dev-java/scala-cli-bin
   visiblename: dev-java/scala-cli-bin
   version: 1.5.4
-  origversion: null
-  status: legacy
-  summary: CLI to interact with Scala and Java
-  maintainers:
-    - flow@gentoo.org
-  licenses:
-    - Apache-2.0
-  categories:
-    - dev-java
-- repo: liguros_stable
-  srcname: dev-java/scala-cli-bin
-  visiblename: dev-java/scala-cli-bin
-  version: 1.6.1
   origversion: null
   status: legacy
   summary: CLI to interact with Scala and Java
@@ -103,15 +184,6 @@
     - Apache-2.0
   categories:
     - dev-java
-- repo: wakemeops
-  subrepo: dev
-  binname: scala-cli
-  visiblename: scala-cli
-  version: 1.18.0
-  origversion: 1.18.0-1~ops2deb
-  status: legacy
-  maintainers:
-    - ops2deb@upciti.com
 - repo: liguros_develop
   srcname: dev-java/scala-cli-bin
   visiblename: dev-java/scala-cli-bin
@@ -243,6 +315,15 @@
   subrepo: dev
   binname: scala-cli
   visiblename: scala-cli
+  version: 1.18.0
+  origversion: 1.18.0-1~ops2deb
+  status: legacy
+  maintainers:
+    - ops2deb@upciti.com
+- repo: wakemeops
+  subrepo: dev
+  binname: scala-cli
+  visiblename: scala-cli
   version: 1.17.1
   origversion: 1.17.1-1~ops2deb
   status: legacy
@@ -344,87 +425,6 @@
   visiblename: scala-cli
   version: 1.11.0
   origversion: 1.11.0-1~ops2deb
-  status: legacy
-  maintainers:
-    - ops2deb@upciti.com
-- repo: wakemeops
-  subrepo: dev
-  binname: scala-cli
-  visiblename: scala-cli
-  version: 1.10.1
-  origversion: 1.10.1-1~ops2deb
-  status: legacy
-  maintainers:
-    - ops2deb@upciti.com
-- repo: wakemeops
-  subrepo: dev
-  binname: scala-cli
-  visiblename: scala-cli
-  version: 1.10.0
-  origversion: 1.10.0-1~ops2deb
-  status: legacy
-  maintainers:
-    - ops2deb@upciti.com
-- repo: wakemeops
-  subrepo: dev
-  binname: scala-cli
-  visiblename: scala-cli
-  version: 1.9.1
-  origversion: 1.9.1-1~ops2deb
-  status: legacy
-  maintainers:
-    - ops2deb@upciti.com
-- repo: wakemeops
-  subrepo: dev
-  binname: scala-cli
-  visiblename: scala-cli
-  version: 1.9.0
-  origversion: 1.9.0-1~ops2deb
-  status: legacy
-  maintainers:
-    - ops2deb@upciti.com
-- repo: wakemeops
-  subrepo: dev
-  binname: scala-cli
-  visiblename: scala-cli
-  version: 1.8.5
-  origversion: 1.8.5-1~ops2deb
-  status: legacy
-  maintainers:
-    - ops2deb@upciti.com
-- repo: wakemeops
-  subrepo: dev
-  binname: scala-cli
-  visiblename: scala-cli
-  version: 1.8.4
-  origversion: 1.8.4-1~ops2deb
-  status: legacy
-  maintainers:
-    - ops2deb@upciti.com
-- repo: wakemeops
-  subrepo: dev
-  binname: scala-cli
-  visiblename: scala-cli
-  version: 1.8.3
-  origversion: 1.8.3-1~ops2deb
-  status: legacy
-  maintainers:
-    - ops2deb@upciti.com
-- repo: wakemeops
-  subrepo: dev
-  binname: scala-cli
-  visiblename: scala-cli
-  version: 1.8.1
-  origversion: 1.8.1-1~ops2deb
-  status: legacy
-  maintainers:
-    - ops2deb@upciti.com
-- repo: wakemeops
-  subrepo: dev
-  binname: scala-cli
-  visiblename: scala-cli
-  version: 1.8.0
-  origversion: 1.8.0-1~ops2deb
   status: legacy
   maintainers:
     - ops2deb@upciti.com
