@@ -33,27 +33,27 @@ Total: **101,436** lines of code across **981** files in the top 5 languages.
 ## Release
 
 - **Latest**: `v1.19.0` (2026-11-11)
-- **Last commit**: 2026-11-23
+- **Last commit**: 2026-11-24
 - **Assets in release**: 24
 
 ## Popularity
 
-- **Stars**: 646 · **Forks**: 169 · **Open issues**: 1,181 · **Contributors**: 118
+- **Stars**: 646 · **Forks**: 170 · **Open issues**: 1,181 · **Contributors**: 118
 
 ## Totals (cumulative)
 
-- **Releases**: 91 · **Merged PRs**: 2896 · **Open PRs**: 15 · **Closed issues**: 893 · **Open issues**: 288 · **Commits**: 5684
+- **Releases**: 91 · **Merged PRs**: 2900 · **Open PRs**: 17 · **Closed issues**: 893 · **Open issues**: 288 · **Commits**: 5688
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-24 | 1 | 53 | 10 | 2 | 1 | 52 |
-| last60d | 2026-09-24 | 2 | 110 | 10 | 8 | 1 | 126 |
-| 90d | 2026-08-25 | 4 | 165 | 10 | 13 | 1 | 203 |
-| last180d | 2026-05-27 | 6 | 280 | 12 | 21 | 3 | 321 |
-| 360d | 2025-11-28 | 15 | 495 | 15 | 61 | 13 | 591 |
-| last720d | 2024-12-03 | 30 | 898 | 15 | 153 | 63 | 1268 |
+| 30d | 2026-10-25 | 1 | 57 | 12 | 2 | 1 | 56 |
+| last60d | 2026-09-25 | 2 | 114 | 12 | 8 | 1 | 130 |
+| 90d | 2026-08-26 | 4 | 168 | 12 | 13 | 1 | 207 |
+| last180d | 2026-05-28 | 6 | 284 | 14 | 21 | 3 | 325 |
+| 360d | 2025-11-29 | 15 | 499 | 17 | 61 | 13 | 595 |
+| last720d | 2024-12-04 | 30 | 900 | 17 | 152 | 62 | 1268 |
 
 ## Release assets
 
@@ -102,4 +102,4 @@ Install metadata for scala-cli lives in the [x-cmd/install](https://github.com/x
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261123.yml` · 2026-11-23T10:53:16Z._
+_Snapshot: `data/card/261124.yml` · 2026-11-24T11:29:15Z._
