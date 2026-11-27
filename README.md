@@ -14,11 +14,11 @@ x install scala-cli
 
 ## Code insight
 
-Total: **101,736** lines of code across **986** files in the top 5 languages.
+Total: **101,764** lines of code across **986** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
-| Scala | 89,809 | 3,081 | 9,654 | 896 |
+| Scala | 89,819 | 3,081 | 9,654 | 896 |
 | Css | 3,802 | 149 | 656 | 2 |
 | Tsx | 3,104 | 98 | 248 | 43 |
 | Json | 1,716 | 0 | 0 | 23 |
@@ -42,18 +42,18 @@ Total: **101,736** lines of code across **986** files in the top 5 languages.
 
 ## Totals (cumulative)
 
-- **Releases**: 91 · **Merged PRs**: 2909 · **Open PRs**: 11 · **Closed issues**: 893 · **Open issues**: 288 · **Commits**: 5724
+- **Releases**: 91 · **Merged PRs**: 2911 · **Open PRs**: 11 · **Closed issues**: 893 · **Open issues**: 288 · **Commits**: 5726
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-27 | 1 | 57 | 6 | 2 | 1 | 89 |
-| last60d | 2026-09-27 | 2 | 122 | 6 | 8 | 1 | 163 |
-| 90d | 2026-08-28 | 4 | 177 | 6 | 13 | 1 | 240 |
-| last180d | 2026-05-30 | 6 | 292 | 8 | 21 | 3 | 358 |
-| 360d | 2025-12-01 | 15 | 506 | 11 | 61 | 13 | 628 |
-| last720d | 2024-12-06 | 30 | 906 | 11 | 152 | 60 | 1291 |
+| 30d | 2026-10-28 | 1 | 58 | 6 | 2 | 1 | 91 |
+| last60d | 2026-09-28 | 2 | 121 | 6 | 8 | 1 | 165 |
+| 90d | 2026-08-29 | 4 | 179 | 6 | 13 | 1 | 242 |
+| last180d | 2026-05-31 | 6 | 294 | 8 | 21 | 3 | 360 |
+| 360d | 2025-12-02 | 15 | 507 | 11 | 61 | 13 | 630 |
+| last720d | 2024-12-07 | 30 | 908 | 11 | 152 | 60 | 1291 |
 
 ## Release assets
 
@@ -93,4 +93,4 @@ Install metadata for scala-cli lives in the [x-cmd/install](https://github.com/x
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261126.yml` · 2026-11-26T10:05:16Z._
+_Snapshot: `data/card/261127.yml` · 2026-11-27T10:12:58Z._
