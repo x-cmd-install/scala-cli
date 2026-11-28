@@ -42,18 +42,18 @@ Total: **101,764** lines of code across **986** files in the top 5 languages.
 
 ## Totals (cumulative)
 
-- **Releases**: 91 · **Merged PRs**: 2911 · **Open PRs**: 11 · **Closed issues**: 893 · **Open issues**: 288 · **Commits**: 5726
+- **Releases**: 91 · **Merged PRs**: 2911 · **Open PRs**: 12 · **Closed issues**: 893 · **Open issues**: 288 · **Commits**: 5726
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-28 | 1 | 58 | 6 | 2 | 1 | 91 |
-| last60d | 2026-09-28 | 2 | 121 | 6 | 8 | 1 | 165 |
-| 90d | 2026-08-29 | 4 | 179 | 6 | 13 | 1 | 242 |
-| last180d | 2026-05-31 | 6 | 294 | 8 | 21 | 3 | 360 |
-| 360d | 2025-12-02 | 15 | 507 | 11 | 61 | 13 | 630 |
-| last720d | 2024-12-07 | 30 | 908 | 11 | 152 | 60 | 1291 |
+| 30d | 2026-10-29 | 1 | 52 | 7 | 1 | 1 | 91 |
+| last60d | 2026-09-29 | 2 | 119 | 7 | 7 | 1 | 165 |
+| 90d | 2026-08-30 | 4 | 179 | 7 | 13 | 1 | 242 |
+| last180d | 2026-06-01 | 6 | 293 | 9 | 21 | 3 | 360 |
+| 360d | 2025-12-03 | 15 | 504 | 12 | 61 | 13 | 630 |
+| last720d | 2024-12-08 | 30 | 908 | 12 | 152 | 60 | 1291 |
 
 ## Release assets
 
@@ -84,6 +84,15 @@ Total: **101,764** lines of code across **986** files in the top 5 languages.
 | [scala-cli.jar](https://github.com/VirtusLab/scala-cli/releases/download/v1.19.0/scala-cli.jar) | 114.9 MiB | `other` |
 | [vc_redist.x64.exe](https://github.com/VirtusLab/scala-cli/releases/download/v1.19.0/vc_redist.x64.exe) | 17.9 MiB | `other` |
 
+## Distribution status
+
+Reported by **69** distros on [repology.org](https://repology.org/project/scala-cli). **6** are ✅ on the latest upstream release, **8** are ⚠️ on an older version.
+
+| Distro | Version | Status |
+|--------|---------|--------|
+| Homebrew | `1.19.0` | ✅ latest |
+| Nix unstable | `1.19.0` | ✅ latest |
+
 ## Improve this data
 
 Install metadata for scala-cli lives in the [x-cmd/install](https://github.com/x-cmd/install) index — a curated YAML package list that x-cmd consumes at install time. If `scala-cli` is missing, out of date, or installs incorrectly, please open an issue or PR there:
@@ -93,4 +102,4 @@ Install metadata for scala-cli lives in the [x-cmd/install](https://github.com/x
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261127.yml` · 2026-11-27T10:12:58Z._
+_Snapshot: `data/card/261128.yml` · 2026-11-28T08:58:08Z._
